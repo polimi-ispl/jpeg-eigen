@@ -20,8 +20,7 @@ python3 -m unittest test_extractor.TestExtractor
 ## How to cite
 Plain text:
 ```
-N. Bonettini, L. Bondi, P. Bestagini, S. Tubaro, "JPEG Implementation Forensics Based on Eigen-Algorithms",
-IEEE International Workshop on Information Forensics and Security (WIFS), 2018
+N. Bonettini, L. Bondi, P. Bestagini, S. Tubaro, "JPEG Implementation Forensics Based on Eigen-Algorithms", IEEE International Workshop on Information Forensics and Security (WIFS), 2018
 ```
 
 Bibtex:

@@ -6,7 +6,7 @@ IEEE International Workshop on Information Forensics and Security (WIFS),
 
 ## Functions
 
-### jpeg_recompress_pil
+### `jpeg_recompress_pil`
 Re-compress a JPEG image using the same quantization matrix and PIL implementation
 
 ### jpeg_feature
